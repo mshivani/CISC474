@@ -1,0 +1,11 @@
+TO COMPILE THE PROGRAM:
+
+Open Terminal:
+1) run './mongod'
+2) if './mongod' does not run then rm mongod.lock from the data folder
+3) leave mongod running
+
+Open 2nd Terminal:
+1) cd to project directory (ud_forum)
+2) enter 'node app.js'
+3) Preview running application
